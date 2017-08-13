@@ -1,0 +1,6 @@
+spring:
+    datasource:
+        name: test
+        url: jdbc:mysql://localhost:3306/mobobox_platform
+        username: root
+        password:
